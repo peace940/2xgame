@@ -1,0 +1,145 @@
+#button {
+  margin-right: 150px;
+  margin-top: 200px;
+  padding-right: 25px;
+  font-size: 100px;
+  border: 3px;
+  background-color: rgb(128, 252, 124);
+  border-style: solid;
+  color: #000000;
+}
+
+#number {
+  margin-right: 150px;
+  font-size: 100px;
+}
+
+#description {
+  border-style: solid;
+  font-size: 20px;
+}
+
+.center {
+  text-align: center;
+}
+
+.button1 {
+  margin-right: 150px;
+  margin-top: 200px;
+  padding-right: 25px;
+  font-size: 100px;
+  border: 3px;
+  background-color: rgb(135, 252, 124);
+  border-style: solid;
+  color: #000000;
+}
+
+.button2 {
+  margin-right: 150px;
+  margin-top: 200px;
+  padding-right: 25px;
+  font-size: 100px;
+  border: 3px;
+  background-color: rgb(145, 252, 124);
+  border-style: solid;
+  color: #000000;
+}
+
+.button3 {
+  margin-right: 150px;
+  margin-top: 200px;
+  padding-right: 25px;
+  font-size: 100px;
+  border: 3px;
+  background-color: rgb(164, 252, 124);
+  border-style: solid;
+  color: #000000;
+}
+
+.button3 {
+  margin-right: 150px;
+  margin-top: 200px;
+  padding-right: 25px;
+  font-size: 100px;
+  border: 3px;
+  background-color: rgb(186, 252, 124);
+  border-style: solid;
+  color: #000000;
+}
+
+.button4 {
+  margin-right: 150px;
+  margin-top: 200px;
+  padding-right: 25px;
+  font-size: 100px;
+  border: 3px;
+  background-color: rgb(203, 252, 124);
+  border-style: solid;
+  color: #000000;
+}
+
+.button5 {
+  margin-right: 150px;
+  margin-top: 200px;
+  padding-right: 25px;
+  font-size: 100px;
+  border: 3px;
+  background-color: rgb(224, 252, 124);
+  border-style: solid;
+  color: #000000;
+}
+
+.button6 {
+  margin-right: 150px;
+  margin-top: 200px;
+  padding-right: 25px;
+  font-size: 100px;
+  border: 3px;
+  background-color: rgb(252, 196, 124);
+  border-style: solid;
+  color: #000000;
+}
+
+.button7 {
+  margin-right: 150px;
+  margin-top: 200px;
+  padding-right: 25px;
+  font-size: 100px;
+  border: 3px;
+  background-color: rgb(252, 182, 124);
+  border-style: solid;
+  color: #000000;
+}
+
+.button8 {
+  margin-right: 150px;
+  margin-top: 200px;
+  padding-right: 25px;
+  font-size: 100px;
+  border: 3px;
+  background-color: rgb(252, 124, 124);
+  border-style: solid;
+  color: #000000;
+}
+
+.button9 {
+  margin-right: 150px;
+  margin-top: 200px;
+  padding-right: 25px;
+  font-size: 100px;
+  border: 3px;
+  background-color: rgb(255, 86, 64);
+  border-style: solid;
+  color: #000000;
+}
+
+.button10 {
+  margin-right: 150px;
+  margin-top: 200px;
+  padding-right: 25px;
+  font-size: 100px;
+  border: 3px;
+  background-color: rgb(255, 0, 0);
+  border-style: solid;
+  color: #000000;
+}
