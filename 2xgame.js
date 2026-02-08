@@ -8,7 +8,7 @@ let win = 0
 button.addEventListener(
   'click',
   () => {
-    if (Math.random() * 10 > 7) {
+    if (Math.random() * 10 > 8) {
       win = 0
       judge.innerText  = "lose..."
       number.innerText = n = 1;
@@ -26,4 +26,5 @@ button.addEventListener(
     if (win >= 10) return
     button.setAttribute('id','')
     button.setAttribute('class', `button${win}`)
+
   }
